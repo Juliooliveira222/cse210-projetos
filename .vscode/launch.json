@@ -1,8 +1,9 @@
 
 {
     "version": "0.2.0",
-    "configurations": [
-        {
+    "configurations": [ 
+        
+            {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
@@ -10,11 +11,11 @@
             "program": "${workspaceFolder}/semana01/Exercicio1/bin/Debug/net8.0/Exercicio1.dll",
             "args": [],
             "cwd": "${workspaceFolder}/semana01/Exercicio1",
-            "stopAtEntry": false,
+            "stopAtEntry": false
             }
-        },
-    
-
+        
+        ]
+ },
 
         {
             "name": "Projeto Sandbox",
@@ -236,6 +237,4 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
-
-    ]
 }
